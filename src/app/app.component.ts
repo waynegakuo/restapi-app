@@ -8,7 +8,7 @@ import {User} from './model/user';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent implements OnInit {
-  title = 'restapi-app';
+  title = 'REST API App';
   name = 'by Wayne Gakuo';
   users: User[];
 
